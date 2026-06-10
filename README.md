@@ -1,7 +1,7 @@
 # ecommerce-project-week-4
 #  E-commerce Web Application
  Project Overview
-This project is a simple E-commerce Web Application developed as part of a 4-week internship program.  
+This project is a simple E-commerce Web Application developed as part of a 4-week coding time.  
 The application allows users to browse products, add them to a cart, calculate total price, and place orders.  
 It also includes a basic login and signup system.
  Features:
